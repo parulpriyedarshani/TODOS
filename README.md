@@ -1,6 +1,6 @@
 # Todo App
 
-An angular based single page Todos application built using angular forms with form validation, angular material library and Bulma for the amazing UI enabled with all the CRUD operations for the todo items and much more for day to day planning and scheduling. This project was generated with Angular CLI version 10.0.5.
+TODO is a highly sophisticated user-friendly single page web application buit using Angular, Angular Forms with form validations, Angular Material library and Bulma for its amazing UI, enabled with all the CRUD operations for the todo items and much more. This app aims to provide an easy to use platform for day to day planning and scheduling. This project was generated with Angular CLI version 10.0.5.
 
 ##
 That's how the app looks like-
